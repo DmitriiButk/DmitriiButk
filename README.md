@@ -26,6 +26,7 @@
 
 ---
 
+### 📫 Connect with Me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DmitriiButk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B1%D1%83%D1%82%D0%BA%D0%BE%D0%B2-47479634a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriibutk@gmail.com)
@@ -38,7 +39,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DmitriiButk&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiButk&layout=compact)
 
-
+---
 
 ### 🏆 Codewars:
 [![Codewars](https://www.codewars.com/users/DmitriiButk/badges/large)](https://www.codewars.com/users/DmitriiButk)
