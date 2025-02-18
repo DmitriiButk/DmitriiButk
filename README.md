@@ -39,9 +39,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiButk&layout=compact)
 
 ---
-
-### 🏆 Codewars:
-[![Codewars](https://www.codewars.com/users/DmitriiButk/badges/large)](https://www.codewars.com/users/DmitriiButk)
+<a href="https://stepik.org/users/617059759/profile">
+    <img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/524/6/logo/big_00a72902d4cb874e5c714fb145301215.png" alt="Stepik" width="150">
+</a><br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DmitriiButk&color=brightgreen)
 
