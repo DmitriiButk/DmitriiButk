@@ -35,7 +35,6 @@
 
 ### 📊 GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriiButk&show_icons=true&theme=radical)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DmitriiButk&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiButk&layout=compact)
 
 ---
