@@ -8,7 +8,7 @@
 💡 **I'm constantly learning and improving my skills to achieve my goals.**  
 
 - 🔭 Currently working on projects using **FastAPI**
-- 🌱 Learning **asynchronous programming, FastAPI, MySQL, SQLAlchemy, Docker, Django**
+- 🌱 Learning **asynchronous programming, FastAPI, SQLAlchemy, Docker, Django**
 - 💬 Open to discussions about **Python, SQL, API development**
 
 ---
@@ -42,6 +42,5 @@
     <img src="https://habrastorage.org/getpro/moikrug/uploads/company/100/006/524/6/logo/big_00a72902d4cb874e5c714fb145301215.png" alt="Stepik" width="150">
 </a><br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DmitriiButk&color=brightgreen)
 
 
