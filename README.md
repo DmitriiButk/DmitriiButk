@@ -4,13 +4,6 @@
 
 ### About me: 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Beginner+Python+Developer;Let's+Connect!)
-
-💡 **I'm constantly learning and improving my skills to achieve my goals.**  
-
-- 🔭 Currently working on projects using **FastAPI**
-- 🌱 Learning **asynchronous programming, FastAPI, SQLAlchemy, Docker, Django**
-- 💬 Open to discussions about **Python, SQL, API development**
-
 ---
 
 ### 🚀 Tech Stack:
